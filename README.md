@@ -1,9 +1,7 @@
 # DomainEnumeration
 
 ## Enumeration with Powerview
-Powerview(https://github.com/PowerShellMafia/PowerSploit/blob/dev/Recon/PowerView.ps1) is a Powershell script, which is used for enumerating a domain after you have already gained a shell in the system.
-
-Now download the powerview.ps1 script in windows machine, and import it.
+Powerview[https://github.com/PowerShellMafia/PowerSploit/blob/dev/Recon/PowerView.ps1] is a Powershell script, which is used for enumerating a domain after you have already gained a shell in the system. Now download the powerview.ps1 script in windows machine, and import it.
 
 Get current Domain
 ![](images/3.png)
@@ -77,7 +75,8 @@ Find computers where a domain admin has sessions
 To confirm admins access
 ![](images/27.png)
 
-AD Module
+**AD Module**
+
 Get current Domain
 ![](images/01.png)
 
