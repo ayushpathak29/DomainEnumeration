@@ -20,6 +20,7 @@ Get a list of users in the current domain
 
 ![](images/8.png)
 
+
 Get list of all properties for users in the current domain
 ![](images/9.png)
 
@@ -54,6 +55,7 @@ Get OUs in a domain
 
 ![](images/19.png)
 
+
 Get details about the current forest
 ![](images/20.png)
 
@@ -74,6 +76,7 @@ Find computers where a domain admin has sessions
 
 To confirm admins access
 ![](images/27.png)
+
 
 **AD Module**
 
@@ -109,4 +112,3 @@ Get all domains in the current forest
 
 Get all global catalogs for the current forest
 ![](images/23.png)
-
